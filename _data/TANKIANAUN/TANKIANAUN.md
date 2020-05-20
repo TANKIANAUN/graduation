@@ -1,6 +1,7 @@
-name	institution	profile_pic	quote	github_user
-Tan Kian Aun
-University of Malaya
-my pic.jpg
-Bring high to fulfill your dream!
-TANKIANAUN
+---
+name: Tan Kian Aun
+institution: University of Malaya
+profile_pic: my pic.jpg
+quote: Bring high to fulfill your dream!
+github_user: TANKIANAUN
+---
